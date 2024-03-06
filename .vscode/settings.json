@@ -8,6 +8,8 @@
         "regex": "cpp",
         "valarray": "cpp",
         "functional": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "typeindex": "cpp",
+        "typeinfo": "cpp"
     }
 }

@@ -10,6 +10,7 @@ They are also used to store data, such as numbers and other types of information
 #include <iostream>
 using namespace std;
 
+// Function to get length of a given string
 int getLength(char name[]) {
 
     int count = 0;
@@ -51,8 +52,9 @@ int main() {
 
 
     // Length of string
-    cout << "Length: " << getLength(name) << endl;
+    // cout << "Length: " << getLength(name) << endl;
     
+    // to get full line - cin.getline(str, len);
 
     return 0;
 }
